@@ -2,6 +2,8 @@
 
 int main()
 {
+    printf("test");
+    
     short i;
     i = 10000 * 10000;
     printf("%d\n", i);
